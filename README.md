@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-https://masteringapiplatform.com/fr
-https://learn-sylius.com/fr/
+- https://masteringapiplatform.com/fr
+- https://learn-sylius.com/fr/
 
 <!--
 **aratinau/aratinau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
