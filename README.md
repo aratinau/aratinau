@@ -2,7 +2,7 @@
 
 - https://masteringapiplatform.com/fr
 - https://learn-sylius.com/fr/
-- https://dev.to/aratinau/
+- <img height="20px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /> https://dev.to/aratinau/ 
 
 <!--
 **aratinau/aratinau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
