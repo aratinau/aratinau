@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 - mini CV 3 minutes 👉 https://youtu.be/CcWrgwsFYJg 👈
+
+<a href="https://youtu.be/CcWrgwsFYJg" target="_blank"><img width="350" height="205" alt="Capture d’écran 2025-07-31 à 14 05 48" src="https://github.com/user-attachments/assets/7102a0e2-0623-4dcd-8859-fa3b8b61f635" /></a>
+
+
 - https://masteringapiplatform.com/fr
 - https://learn-sylius.com/fr/
 - <img height="20px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /> https://dev.to/aratinau/ 
@@ -19,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+`
