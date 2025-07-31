@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- mini CV 3 minutes 👉 https://youtu.be/CcWrgwsFYJg 👈
 - https://masteringapiplatform.com/fr
 - https://learn-sylius.com/fr/
 - <img height="20px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /> https://dev.to/aratinau/ 
