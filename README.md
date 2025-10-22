@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- https://youtu.be/CcWrgwsFYJg
+- https://youtu.be/CcWrgwsFYJg (mini CV vidéo 3min)
+- https://cv-aymericratinaud.netlify.app CV
 - https://masteringapiplatform.com/fr
 - https://learn-sylius.com/fr/
 - <img height="20px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /> https://dev.to/aratinau/ 
